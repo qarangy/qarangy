@@ -20,6 +20,8 @@
 
 - Email: qarangy@gmail.com
 - Instagram: [@project_qarangy](https://www.instagram.com/project_qarangy/)
+- Telegram: [@project_qarangy](https://t.me/project_qarangy)
+- LinkedIn: [qarangy](https://www.linkedin.com/in/qarangy/)
 
 
 <h3 align="left">Languages and Tools:</h3>
